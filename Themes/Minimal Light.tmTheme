@@ -137,7 +137,7 @@
 			<key>name</key>
 			<string>String interpolation</string>
 			<key>scope</key>
-			<string>string source</string>
+			<string>string source - punctuation.section.embedded.end</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
